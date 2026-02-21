@@ -1,26 +1,4 @@
 <div align="center">
-
-# BuildEstate
-
-### AI-Powered Real Estate Platform
-
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-buildestate.vercel.app-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://buildestate.vercel.app)
-[![Backend API](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://real-estate-website-backend-zfu7.onrender.com)
-
-[![Stars](https://img.shields.io/github/stars/AAYUSH412/Real-Estate-Website?style=for-the-badge&logo=github&color=yellow)](https://github.com/AAYUSH412/Real-Estate-Website)
-[![Forks](https://img.shields.io/github/forks/AAYUSH412/Real-Estate-Website?style=for-the-badge&logo=github&color=blue)](https://github.com/AAYUSH412/Real-Estate-Website)
-[![License](https://img.shields.io/github/license/AAYUSH412/Real-Estate-Website?style=for-the-badge&color=green)](LICENSE)
-
-</div>
-
----
-
 A full-stack real estate platform with AI-powered property search, market analysis, appointment scheduling, and an admin dashboard. Built with React, Node.js, Express, and MongoDB.
 
 ---
@@ -217,25 +195,5 @@ admin/src/
 ```
 
 </details>
-
----
-
-## Contributing
-
-Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) first.
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit: `git commit -m "feat: add your feature"`
-4. Push: `git push origin feature/your-feature`
-5. Open a Pull Request
-
-See also: [Code of Conduct](CODE_OF_CONDUCT.md) · [Security Policy](SECURITY.md)
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
